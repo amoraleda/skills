@@ -8,7 +8,7 @@ Agent Skills are structured instructions that teach Cursor's AI agent how to per
 
 ## Available Skills
 
-### Learning Documentation Generator
+### [Learning Documentation Generator](learning/SKILL.md)
 
 **Path**: `learning/SKILL.md`
 
@@ -22,7 +22,7 @@ Create developer-friendly learning documentation for technical topics (Kubernete
 
 **Usage**: Ask Cursor to "create learning documentation for [topic]" or reference `@learning/SKILL.md`
 
-### Speech Coach
+### [Speech Coach](speech-coach/SKILL.md)
 
 **Path**: `speech-coach/SKILL.md`
 
